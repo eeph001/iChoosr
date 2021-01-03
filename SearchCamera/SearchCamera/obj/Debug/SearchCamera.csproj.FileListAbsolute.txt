@@ -1,0 +1,6 @@
+C:\Users\Eef Janssens\Desktop\iChoosr\SearchCamera\SearchCamera\bin\Debug\SearchCamera.exe.config
+C:\Users\Eef Janssens\Desktop\iChoosr\SearchCamera\SearchCamera\bin\Debug\SearchCamera.exe
+C:\Users\Eef Janssens\Desktop\iChoosr\SearchCamera\SearchCamera\bin\Debug\SearchCamera.pdb
+C:\Users\Eef Janssens\Desktop\iChoosr\SearchCamera\SearchCamera\obj\Debug\SearchCamera.csproj.CoreCompileInputs.cache
+C:\Users\Eef Janssens\Desktop\iChoosr\SearchCamera\SearchCamera\obj\Debug\SearchCamera.exe
+C:\Users\Eef Janssens\Desktop\iChoosr\SearchCamera\SearchCamera\obj\Debug\SearchCamera.pdb
